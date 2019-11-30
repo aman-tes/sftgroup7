@@ -1,0 +1,14 @@
+body{
+	background-color: black;
+
+}
+.nav{
+	position: relative;
+	top:14px;
+	left:5px;
+	padding:50px;
+	margin:10px;
+}
+h1,h2{
+	color: #ffffff;
+}
